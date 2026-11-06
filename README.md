@@ -15,4 +15,4 @@ A web-based application designed to connect stranded vehicles and travelers with
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/ashwinibalaganur12-cell/OnRoadVehielBreakDownSystem.git](https://github.com/ashwinibalaganur12-cell/OnRoadVehielBreakDownSystem.git)
+   git clone https://github.com/ashwinibalaganur12-cell/OnRoadVehielBreakDownSystem.git
